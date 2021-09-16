@@ -1,0 +1,22 @@
+body{
+    background-color: #ffebcd;
+}
+ul{
+
+    border-radius: 10px 10px 10px 10px;
+    height: 50px;
+    width: 100%;
+    position:static;
+    list-style-type: none;
+    margin: 20;
+    text-align: center;
+    background-color:#c28e7a;
+}
+li{
+    height: 40px;
+    display: inline-block;
+    font-size: 30px;
+    color: #fff;
+    line-height:60px;
+    padding:0 40px;
+    margin-top: 0%;
